@@ -1,0 +1,10 @@
+[
+  {
+    "package": "LexisNexisTools",
+    "oncran": true
+  },
+  {
+    "package": "rwhatsapp",
+    "oncran": true
+  }
+]
