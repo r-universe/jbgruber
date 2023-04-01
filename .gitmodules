@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "askgpt"]
+	path = askgpt
+	url = https://github.com/jbgruber/askgpt
+	shallow = true
+	registered = true
 [submodule "LexisNexisTools"]
 	path = LexisNexisTools
 	url = https://github.com/jbgruber/lexisnexistools
