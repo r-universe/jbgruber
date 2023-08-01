@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "askgpt"]
-	path = askgpt
-	url = https://github.com/jbgruber/askgpt
 [submodule "LexisNexisTools"]
 	path = LexisNexisTools
 	url = https://github.com/jbgruber/lexisnexistools
+[submodule "askgpt"]
+	path = askgpt
+	url = https://github.com/jbgruber/askgpt
 [submodule "rwhatsapp"]
 	path = rwhatsapp
 	url = https://github.com/jbgruber/rwhatsapp
