@@ -8,6 +8,9 @@
 [submodule "askgpt"]
 	path = askgpt
 	url = https://github.com/jbgruber/askgpt
+[submodule "atrrr"]
+	path = atrrr
+	url = https://github.com/jbgruber/atrrr
 [submodule "cookiemonster"]
 	path = cookiemonster
 	url = https://github.com/jbgruber/cookiemonster
