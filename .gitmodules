@@ -14,6 +14,10 @@
 [submodule "cookiemonster"]
 	path = cookiemonster
 	url = https://github.com/jbgruber/cookiemonster
+[submodule "libipldr"]
+	path = libipldr
+	url = https://github.com/JBGruber/libipldr
+	registered = false
 [submodule "rollama"]
 	path = rollama
 	url = https://github.com/jbgruber/rollama
