@@ -24,3 +24,6 @@
 [submodule "rwhatsapp"]
 	path = rwhatsapp
 	url = https://github.com/jbgruber/rwhatsapp
+[submodule "traktok"]
+	path = traktok
+	url = https://github.com/jbgruber/traktok
