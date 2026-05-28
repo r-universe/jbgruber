@@ -16,8 +16,7 @@
 	url = https://github.com/jbgruber/cookiemonster
 [submodule "libipldr"]
 	path = libipldr
-	url = https://github.com/JBGruber/libipldr
-	registered = false
+	url = https://github.com/jbgruber/libipldr
 [submodule "rollama"]
 	path = rollama
 	url = https://github.com/jbgruber/rollama
